@@ -1,0 +1,14 @@
+{
+    "name": "fetchhub",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "node app"
+    },
+    "engines": {
+        "node": ">=0.8"
+    },
+    "dependencies": {
+        "express": "3.0.4",
+        "optimist": "0.3.5"
+    }
+}
